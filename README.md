@@ -13,4 +13,4 @@ The file presented is an **IHaskell** notebook. If you do not have IHaskell inst
 
 The file contains an IHaskell notebook on the topic of Parsec. It gives a brief introduction to the Parsec parser combinator library, primarily based on examples. It uses Applicative syntax, so do check that out.
 
-The file presented is in an **IHaskell** notebook. If you do not have IHaskell installed, you can view it using [nbviewer](http://nbviewer.ipython.org "nbviewer"). You can view it directly by following [this link](). 
+The file presented is in an **IHaskell** notebook. If you do not have IHaskell installed, you can view it using [nbviewer](http://nbviewer.ipython.org "nbviewer"). You can view it directly by following [this link](http://nbviewer.ipython.org/github/Tweety-FER/puh-ta/blob/master/Parsec.ipynb). 
