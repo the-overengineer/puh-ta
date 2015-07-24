@@ -9,7 +9,7 @@ The file contains a notebook with notes and materials for the second TA lecture 
 
 The file presented is an **IHaskell** notebook. If you do not have IHaskell installed, you can view it using [nbviewer](http://nbviewer.ipython.org "nbviewer"). You can view the notebook directly by following [this link](http://nbviewer.ipython.org/github/Tweety-FER/puh-ta/blob/master/ArraysAndImperative.ipynb).
 
-## Introduction to Applicative Functions
+## Introduction to Applicative Functors
 
 The **Applicative** file is an **IHaskell** notebook containing an introduction to applicative functors (the `Applicative` data type) using `Functor` and `do` notation. You may want to read it before reading the introduction to Parsec.
 
